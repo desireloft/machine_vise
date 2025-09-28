@@ -21,4 +21,4 @@ This repository contains the design files for a Machine Vise Assembly, a precisi
 
 ## Demo Video
 
-[Click here to view the Machine Vise Assembly video in a new tab](https://raw.githubusercontent.com/desireloft/machine_vise/master/test.html)
+[Click here to view the Machine Vise Assembly video in a new tab](https://desireloft.github.io/machine_vise/test.html)
