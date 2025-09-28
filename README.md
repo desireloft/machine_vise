@@ -6,6 +6,10 @@
 
 This repository contains the design files for a Machine Vise Assembly, a precision tool for securing workpieces during machining. The assembly includes CAD models and technical drawings for manufacturing and assembly.
 
+## Demo Video
+
+[Click here to view the 7 seconds Machine Vise Assembly video in a new tab](https://desireloft.github.io/machine_vise/test.html)
+
 ## Components
 
 - **Base**: Stationary foundation for mounting.
@@ -18,7 +22,3 @@ This repository contains the design files for a Machine Vise Assembly, a precisi
 - **Handle Ball**: Ergonomic grips for the handle rod.
 - **Slide Key**: Guides linear movement of the sliding jaw.
 - **Set Screw**: Fasteners for securing components.
-
-## Demo Video
-
-[Click here to view the Machine Vise Assembly video in a new tab](https://desireloft.github.io/machine_vise/test.html)
