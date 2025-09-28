@@ -23,7 +23,7 @@ This repository contains the design files for a Machine Vise Assembly, a precisi
 
 Click the thumbnail below to view the assembly process:
 
-<video width="640" height="480" controls poster="media/Machine_Vise_thumbnail.jpg">
-  <source src="media/Machine_Vise.mp4" type="video/mp4">
-  Your browser does not support the video tag. <a href="media/Machine_Vise.mp4">Download the video</a>.
+<video width="640" height="360" controls poster="./media/Machine_Vise_thumbnail.jpg">
+  <source src="./media/Machine_Vise.mp4" type="video/mp4">
+  Your browser does not support the video tag. <a href="./media/Machine_Vise.mp4">Download the video</a>.
 </video>
