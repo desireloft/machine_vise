@@ -11,7 +11,7 @@ This repository contains the design files for a Machine Vise Assembly, a precisi
 - **Base**: Stationary foundation for mounting.
 - **Sliding Jaw**: Movable jaw for clamping workpieces.
 - **Jaw Plate**: Replaceable plates for gripping.
-- **Vise Screw**: Threaded screw (e.g., 0.625-8 ACME) to drive the sliding jaw.
+- **Vise Screw**: Threaded screw (0.625-8 ACME) to drive the sliding jaw.
 - **Collar**: Secures the vise screw and supports axial loads.
 - **Special Key**: Custom tool for alignment or securing components.
 - **Handle Rod**: Rod for manual operation of the vise screw.
